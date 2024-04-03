@@ -1,9 +1,6 @@
 /* =====================================
-Template Name: Eduland
-Author Name: ThemeLamp
-Author URI: http://themelamp.com/
-Release By: http://codeglim.com/
-Description: Eduland is a awesome Education & Courses Template.
+Author Name: Kevin Cross Minchakpu
+Author URI: http://octatesystems.com/
 Version:	1.0
 ========================================*/
 
@@ -675,7 +672,7 @@ Version:	1.0
 	transition: all 0.3s ease 0s;
 }
 .features .single-feature:hover .icon-img:before {
-	opacity: 0.5;
+	opacity: none;
 }
 .features .icon-img img {
 	position: absolute;
